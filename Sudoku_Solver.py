@@ -1,3 +1,6 @@
+# This takes a Sudoku puzzle given as a nested list and returns the solved
+# Sudoku puzzle using back tracing algorithm.
+
 sudoku_board = [
     [7, 8, 0, 4, 0, 0, 1, 2, 0],
     [6, 0, 0, 0, 7, 5, 0, 0, 9],
