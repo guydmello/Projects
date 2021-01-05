@@ -1,5 +1,5 @@
-# This takes a sudoku puzzle given as a nested list and returns the solved
-# sudoku puzzle using backtracing algorithm.
+# This takes a Sudoku puzzle given as a nested list and returns the solved
+# Sudoku puzzle using back tracing algorithm.
 
 sudoku_board = [
     [7, 8, 0, 4, 0, 0, 1, 2, 0],
